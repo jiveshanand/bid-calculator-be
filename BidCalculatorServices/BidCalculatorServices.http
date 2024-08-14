@@ -1,0 +1,6 @@
+@BidCalculatorServices_HostAddress = http://localhost:5037
+
+GET {{BidCalculatorServices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
